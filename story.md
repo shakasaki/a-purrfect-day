@@ -4,6 +4,8 @@ the TA's laptop, the cat watched as the local repository began to sync with a
 remote that didn't exist.A new file appeared in the directory:
 _world_domination.py_, and the commit message simply read:**"Meow."** The file
 appeared to be some python code. Running random code is dangerous so the
+
 professor started to inspect the code. meow meow The story is now getting more
 complicated .. professor started to inspect the code. meow meow Something about
 a cat.
+
